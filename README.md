@@ -111,7 +111,7 @@ Modificar la cadena de conexión según su entorno:
 Configurar también la clave JWT:
 
 "Jwt": {
-  "Key": "CLAVE_DE_32_CARACTERES_MINIMO"
+  "Key": "K5LP7ku74LTK@^ctutjE2w&rpYVGKg$A"
 }
 
 * Ejecutar el Proyecto
