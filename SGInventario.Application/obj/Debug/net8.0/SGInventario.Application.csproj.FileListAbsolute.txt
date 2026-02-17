@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\bin\Debug\net8.0\SGInventario.Application.deps.json
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\bin\Debug\net8.0\SGInventario.Application.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\bin\Debug\net8.0\SGInventario.Application.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\bin\Debug\net8.0\SGInventario.Domain.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\bin\Debug\net8.0\SGInventario.Domain.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.AssemblyInfo.cs
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInvent.240B3C0E.Up2Date
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\refint\SGInventario.Application.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\SGInventario.Application.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Application\obj\Debug\net8.0\ref\SGInventario.Application.dll

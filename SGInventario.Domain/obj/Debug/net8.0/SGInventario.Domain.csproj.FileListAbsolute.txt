@@ -1,0 +1,11 @@
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\bin\Debug\net8.0\SGInventario.Domain.deps.json
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\bin\Debug\net8.0\SGInventario.Domain.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\bin\Debug\net8.0\SGInventario.Domain.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.AssemblyInfo.cs
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\refint\SGInventario.Domain.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\SGInventario.Domain.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Domain\obj\Debug\net8.0\ref\SGInventario.Domain.dll

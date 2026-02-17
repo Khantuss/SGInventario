@@ -1,0 +1,17 @@
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Infrastructure.deps.json
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Infrastructure.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Infrastructure.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Application.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Domain.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Application.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\bin\Debug\net8.0\SGInventario.Domain.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.AssemblyInfo.cs
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInvent.23A8CB27.Up2Date
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\refint\SGInventario.Infrastructure.dll
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\SGInventario.Infrastructure.pdb
+C:\Users\henry\source\repos\SGInventario\SGInventario.Infrastructure\obj\Debug\net8.0\ref\SGInventario.Infrastructure.dll
